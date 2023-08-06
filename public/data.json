@@ -1,0 +1,417 @@
+[
+  {
+    
+    "classImage": "https://pix11.com/wp-content/uploads/sites/25/2022/09/000_2022-0823-best-watercolor-paint-set-62a8f7.jpg",
+    "className": "Painting ",
+    "instructorImage": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "John Doe",
+    "instructorEmail": "john.doe@example.com",
+    "availableSeats": 10,
+    "price": 50,
+    "date":"wednesday",
+    "time":"6:00 pm - 8:00 pm",
+    "category":"Painting"
+  },
+  {
+    
+    "classImage": "https://blog.artsper.com/wp-content/uploads/2022/05/Michelangelo-Featured-image-1200-x-675-px.jpg",
+    "className": "Sculpture",
+    "instructorImage": "https://images.unsplash.com/photo-1514355315815-2b64b0216b14?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "instructorName": "Jane Smith",
+    "instructorEmail": "jane.smith@example.com",
+    "availableSeats": 15,
+    "price": 60,
+    "date":"thursday",
+    "time":"7:00 pm - 9:00 pm",
+    "category":"Sculpture"
+  },
+  {
+    
+    "classImage": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2022/02/gri_2013_m_8_087_ANT084_344764ds_2000x2000-1-1200x801.jpg?resize=780%2C521&quality=100&ssl=1",
+    "className": "Drawing",
+    "instructorImage": "https://images.unsplash.com/photo-1511551203524-9a24350a5771?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "instructorName": "David Johnson",
+    "instructorEmail": "david.johnson@example.com",
+    "availableSeats": 8,
+    "price": 55,
+    "date":"saturday",
+    "time":"1:00 pm - 3:00 pm",
+    "category":"Drawing"
+  },
+  {
+    
+    "classImage": "https://i1.adis.ws/i/canon/canon_future_focus_eos_r6_lifestyle_7-16x9_201cd357200b457f9eb4c11aafa6cfc9",
+    "className": "Photography",
+    "instructorImage": "https://images.unsplash.com/photo-1580894732930-0babd100d356?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "instructorName": "Emily Wilson",
+    "instructorEmail": "emily.wilson@example.com",
+    "availableSeats": 12,
+    "price": 70,
+    "date":"thursday",
+    "time":"2:00 pm - 4:00 pm",
+    "category":"Photography"
+  },
+  
+ 
+ 
+  {
+    "classImage": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2019/01/digital-illustration-guide.jpg",
+    "className": "Digital Art",
+    "instructorImage": "https://images.unsplash.com/photo-1522010265321-fd346cc64d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Olivia Moore",
+    "instructorEmail": "olivia.moore@example.com",
+    "availableSeats": 9,
+    "price": 60,
+    "date":"tuesday",
+    "time":"4:00 pm - 6:00 pm",
+    "category":"Digital"
+  },
+  {
+    
+    "classImage": "https://i.ytimg.com/vi/l0W2e1mGntQ/maxresdefault.jpg",
+    "className": "Illustration",
+    "instructorImage": "https://images.unsplash.com/photo-1511250503134-89501c53a815?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "instructorName": "Daniel Wilson",
+    "instructorEmail": "daniel.wilson@example.com",
+    "availableSeats": 16,
+    "price": 65,
+    "date":"wednesday",
+    "time":"2:00 pm - 4:00 pm",
+    "category":"Illustration"
+  },
+ 
+ 
+  
+  {
+    
+    "classImage": "https://www.singulart.com/blog/wp-content/uploads/2019/10/large.jpg",
+    "className": "Textile Art",
+    "instructorImage": "https://images.unsplash.com/photo-1515073838964-4d4d56a58b21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "instructorName": "Liam White",
+    "instructorEmail": "liam.white@example.com",
+    "availableSeats": 15,
+    "price": 80,
+    "date":"saturday",
+    "time":"1:00 pm - 3:00 pm",
+    "category":"Textile"
+  },
+  {
+    
+    "classImage": "https://insteading.com/assets/images/Art/Glass/alison%20apple%20tree.jpg",
+    "className": "Glass Art",
+    "instructorImage": "https://images.unsplash.com/photo-1464582883107-8adf2dca8a9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "instructorName": "Ava Martinez",
+    "instructorEmail": "ava.martinez@example.com",
+    "availableSeats": 10,
+    "price": 65,
+    "date":"sunday",
+    "time":"12:00 pm - 2:00 pm",
+    "category":"Glass"
+  },
+  
+
+  {
+    
+    "classImage": "https://blog.artsper.com/wp-content/uploads/2013/08/ObeyGiant_Vhils-1.jpg",
+    "className": "Street Art",
+    "instructorImage": "https://images.unsplash.com/photo-1564460576398-ef55d99548b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Avery Thompson",
+    "instructorEmail": "avery.thompson@example.com",
+    "availableSeats": 15,
+    "price": 65,
+    "date":"friday",
+    "time":"1:00 pm - 3:00 pm",
+    "category":"Street"
+  },
+
+  {
+    
+    "classImage": "https://d7hftxdivxxvm.cloudfront.net/?height=630&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FyHI_Yr0ALwHdhDRAuF0cBg%2Flarge.jpg&width=1200",
+    "className": "Video Art",
+    "instructorImage": "https://images.unsplash.com/photo-1531299669378-dd18b44a8dbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=867&q=80",
+    "instructorName": "James Wilson",
+    "instructorEmail": "james.wilson@example.com",
+    "availableSeats": 9,
+    "price": 60,
+    "date":"saturday",
+    "time":"12:00 pm - 2:00 pm",
+    "category":"Video"
+  },
+  {
+    
+    "classImage": "https://pix11.com/wp-content/uploads/sites/25/2022/09/000_2022-0823-best-watercolor-paint-set-62a8f7.jpg",
+    "className": "Painting",
+    "instructorImage": "https://images.unsplash.com/photo-1533461502717-83546f485d24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "John Doe",
+    "instructorEmail": "john.doe@example.com",
+    "availableSeats": 10,
+    "price": 50,
+    "date":"wednesday",
+    "time":"6:00 pm - 8:00 pm",
+    "category":"Painting"
+  },
+  {
+    
+    "classImage": "https://blog.artsper.com/wp-content/uploads/2022/05/Michelangelo-Featured-image-1200-x-675-px.jpg",
+    "className": "Sculpture",
+    "instructorImage": "https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "instructorName": "Jane Smith",
+    "instructorEmail": "jane.smith@example.com",
+    "availableSeats": 15,
+    "price": 60,
+    "date":"thursday",
+    "time":"7:00 pm - 9:00 pm",
+    "category":"Sculpture"
+  },
+  {
+    
+    "classImage": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2022/02/gri_2013_m_8_087_ANT084_344764ds_2000x2000-1-1200x801.jpg?resize=780%2C521&quality=100&ssl=1",
+    "className": "Drawing",
+    "instructorImage": "https://images.unsplash.com/photo-1550456915-749f38312cbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "David Johnson",
+    "instructorEmail": "david.johnson@example.com",
+    "availableSeats": 8,
+    "price": 55,
+    "date":"saturday",
+    "time":"1:00 pm - 3:00 pm",
+    "category":"Drawing"
+  },
+  {
+    
+    "classImage": "https://i1.adis.ws/i/canon/canon_future_focus_eos_r6_lifestyle_7-16x9_201cd357200b457f9eb4c11aafa6cfc9",
+    "className": "Photography",
+    "instructorImage": "https://images.unsplash.com/photo-1506105496842-dd8d1b18bb07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Emily Wilson",
+    "instructorEmail": "emily.wilson@example.com",
+    "availableSeats": 12,
+    "price": 70,
+    "date":"thursday",
+    "time":"2:00 pm - 4:00 pm",
+    "category":"Photography"
+  },
+  
+ 
+ 
+  {
+    
+    "classImage": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2019/01/digital-illustration-guide.jpg",
+    "className": "Digital Art",
+    "instructorImage": "https://images.unsplash.com/photo-1552604730-378f127db7ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Olivia Moore",
+    "instructorEmail": "olivia.moore@example.com",
+    "availableSeats": 9,
+    "price": 60,
+    "date":"tuesday",
+    "time":"4:00 pm - 6:00 pm",
+    "category":"Digital"
+  },
+  {
+    
+    "classImage": "https://i.ytimg.com/vi/l0W2e1mGntQ/maxresdefault.jpg",
+    "className": "Illustration",
+    "instructorImage": "https://images.unsplash.com/photo-1535546125792-dd417e0f8f87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Daniel Wilson",
+    "instructorEmail": "daniel.wilson@example.com",
+    "availableSeats": 16,
+    "price": 65,
+    "date":"wednesday",
+    "time":"2:00 pm - 4:00 pm",
+    "category":"Illustration"
+  },
+ 
+ 
+  
+  {
+    
+    "classImage": "https://www.singulart.com/blog/wp-content/uploads/2019/10/large.jpg",
+    "className": "Textile Art",
+    "instructorImage": "https://images.unsplash.com/photo-1536336978327-65b24c1ec1da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Liam White",
+    "instructorEmail": "liam.white@example.com",
+    "availableSeats": 15,
+    "price": 80,
+    "date":"saturday",
+    "time":"1:00 pm - 3:00 pm",
+    "category":"Textile"
+  },
+  {
+    
+    "classImage": "https://insteading.com/assets/images/Art/Glass/alison%20apple%20tree.jpg",
+    "className": "Glass Art",
+    "instructorImage": "https://images.unsplash.com/flagged/photo-1556138740-9ea22b0db0f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Ava Martinez",
+    "instructorEmail": "ava.martinez@example.com",
+    "availableSeats": 10,
+    "price": 65,
+    "date":"sunday",
+    "time":"12:00 pm - 2:00 pm",
+    "category":"Glass"
+  },
+  
+
+  {
+    
+    "classImage": "https://blog.artsper.com/wp-content/uploads/2013/08/ObeyGiant_Vhils-1.jpg",
+    "className": "Street Art",
+    "instructorImage": "https://images.unsplash.com/photo-1530021232320-687d8e3dba54?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Avery Thompson",
+    "instructorEmail": "avery.thompson@example.com",
+    "availableSeats": 15,
+    "price": 65,
+    "date":"friday",
+    "time":"1:00 pm - 3:00 pm",
+    "category":"Street"
+  },
+
+  {
+    
+    "classImage": "https://d7hftxdivxxvm.cloudfront.net/?height=630&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FyHI_Yr0ALwHdhDRAuF0cBg%2Flarge.jpg&width=1200",
+    "className": "Video Art",
+    "instructorImage": "https://images.unsplash.com/photo-1511551203524-9a24350a5771?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "instructorName": "James Wilson",
+    "instructorEmail": "james.wilson@example.com",
+    "availableSeats": 9,
+    "price": 60,
+    "date":"saturday",
+    "time":"12:00 pm - 2:00 pm",
+    "category":"Video"
+  }, {
+    
+    "classImage": "https://pix11.com/wp-content/uploads/sites/25/2022/09/000_2022-0823-best-watercolor-paint-set-62a8f7.jpg",
+    "className": "Painting Art",
+    "instructorImage": "https://images.unsplash.com/photo-1541869993852-924ec6a70c50?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "John Doe",
+    "instructorEmail": "john.doe@example.com",
+    "availableSeats": 10,
+    "price": 50,
+    "date":"wednesday",
+    "time":"6:00 pm - 8:00 pm",
+    "category":"Painting"
+  },
+  {
+    
+    "classImage": "https://blog.artsper.com/wp-content/uploads/2022/05/Michelangelo-Featured-image-1200-x-675-px.jpg",
+    "className": "Sculpture Art",
+    "instructorImage": "https://images.unsplash.com/photo-1608389769338-3d5ceb3c1bc4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Jane Smith",
+    "instructorEmail": "jane.smith@example.com",
+    "availableSeats": 15,
+    "price": 60,
+    "date":"thursday",
+    "time":"7:00 pm - 9:00 pm",
+    "category":"Sculpture"
+  },
+  {
+    
+    "classImage": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2022/02/gri_2013_m_8_087_ANT084_344764ds_2000x2000-1-1200x801.jpg?resize=780%2C521&quality=100&ssl=1",
+    "className": "Drawing Art",
+    "instructorImage": "https://images.unsplash.com/photo-1520207588543-1e545b20c19e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+    "instructorName": "David Johnson",
+    "instructorEmail": "david.johnson@example.com",
+    "availableSeats": 8,
+    "price": 55,
+    "date":"saturday",
+    "time":"1:00 pm - 3:00 pm",
+    "category":"Drawing"
+  },
+  {
+    
+    "classImage": "https://i1.adis.ws/i/canon/canon_future_focus_eos_r6_lifestyle_7-16x9_201cd357200b457f9eb4c11aafa6cfc9",
+    "className": "Photography Art",
+    "instructorImage": "https://images.unsplash.com/photo-1541271696563-3be2f555fc4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Emily Wilson",
+    "instructorEmail": "emily.wilson@example.com",
+    "availableSeats": 12,
+    "price": 70,
+    "date":"thursday",
+    "time":"2:00 pm - 4:00 pm",
+    "category":"Photography"
+  },
+  
+ 
+ 
+  {
+    
+    "classImage": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2019/01/digital-illustration-guide.jpg",
+    "className": "Digital Art",
+    "instructorImage": "https://images.unsplash.com/photo-1499887142886-791eca5918cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+    "instructorName": "Olivia Moore",
+    "instructorEmail": "olivia.moore@example.com",
+    "availableSeats": 9,
+    "price": 60,
+    "date":"tuesday",
+    "time":"4:00 pm - 6:00 pm",
+    "category":"Digital"
+  },
+  {
+    
+    "classImage": "https://i.ytimg.com/vi/l0W2e1mGntQ/maxresdefault.jpg",
+    "className": "Illustration Art",
+    "instructorImage": "https://images.unsplash.com/photo-1496360784265-52a2509684f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "instructorName": "Daniel Wilson",
+    "instructorEmail": "daniel.wilson@example.com",
+    "availableSeats": 16,
+    "price": 65,
+    "date":"wednesday",
+    "time":"2:00 pm - 4:00 pm",
+    "category":"Illustration"
+  },
+ 
+ 
+  
+  {
+    
+    "classImage": "https://www.singulart.com/blog/wp-content/uploads/2019/10/large.jpg",
+    "className": "Textile Art",
+    "instructorImage": "https://images.unsplash.com/photo-1511424187101-2aaa60069357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=429&q=80",
+    "instructorName": "Liam White",
+    "instructorEmail": "liam.white@example.com",
+    "availableSeats": 15,
+    "price": 80,
+    "date":"saturday",
+    "time":"1:00 pm - 3:00 pm",
+    "category":"Textile"
+  },
+  {
+    
+    "classImage": "https://insteading.com/assets/images/Art/Glass/alison%20apple%20tree.jpg",
+    "className": "Glass Art",
+    "instructorImage": "https://images.unsplash.com/photo-1519362909365-f8591adb630e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Ava Martinez",
+    "instructorEmail": "ava.martinez@example.com",
+    "availableSeats": 10,
+    "price": 65,
+    "date":"sunday",
+    "time":"12:00 pm - 2:00 pm",
+    "category":"Glass"
+  },
+  
+
+  {
+    
+    "classImage": "https://blog.artsper.com/wp-content/uploads/2013/08/ObeyGiant_Vhils-1.jpg",
+    "className": "Street Art",
+    "instructorImage": "https://images.unsplash.com/photo-1505840717430-882ce147ef2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "Avery Thompson",
+    "instructorEmail": "avery.thompson@example.com",
+    "availableSeats": 15,
+    "price": 65,
+    "date":"friday",
+    "time":"1:00 pm - 3:00 pm",
+    "category":"Street"
+  },
+
+  {
+    
+    "classImage": "https://d7hftxdivxxvm.cloudfront.net/?height=630&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FyHI_Yr0ALwHdhDRAuF0cBg%2Flarge.jpg&width=1200",
+    "className": "Video Art",
+    "instructorImage": "https://images.unsplash.com/photo-1517256673644-36ad11246d21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "instructorName": "James Wilson",
+    "instructorEmail": "james.wilson@example.com",
+    "availableSeats": 9,
+    "price": 60,
+    "date":"saturday",
+    "time":"12:00 pm - 2:00 pm",
+    "category":"Video"
+  }
+]
