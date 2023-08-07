@@ -8,7 +8,7 @@ const ManageAllOrders = () => {
   const [isStatus] = useState(true);
   const showBtn = true;
   useEffect(() => {
-    fetch("http://localhost:5000/orders/manageAllOrders")
+    fetch("https://artsoul.onrender.com/orders/manageAllOrders")
       .then((res) => res.json())
       .then((data) => setAllOrders(data));
   }, []);
@@ -16,7 +16,7 @@ const ManageAllOrders = () => {
   const handleDeleteUser = (_id) => {
     const proceed = window.confirm("Are you sure You want to delete ? ");
     if (proceed) {
-      const url = `http://localhost:5000/order/delete/${_id}`;
+      const url = `https://artsoul.onrender.com/order/delete/${_id}`;
       fetch(url, {
         method: "DELETE",
       })
@@ -32,7 +32,7 @@ const ManageAllOrders = () => {
     }
   };
   const handleStatus = (_id) => {
-    const url = `http://localhost:5000/status/${_id}`;
+    const url = `https://artsoul.onrender.com/status/${_id}`;
     fetch(url, {
       method: "PUT",
       headers: {

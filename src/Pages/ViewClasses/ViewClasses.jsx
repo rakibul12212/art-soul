@@ -26,7 +26,7 @@ const ViewClasses = () => {
   useEffect(() => {
     const fetchClassDetails = async () => {
       try {
-        const response = await fetch('http://localhost:5000/classes/1'); // Replace '1' with the actual class ID
+        const response = await fetch('https://artsoul.onrender.com/classes/1'); // Replace '1' with the actual class ID
         if (!response.ok) {
           throw new Error('Failed to fetch class details');
         }

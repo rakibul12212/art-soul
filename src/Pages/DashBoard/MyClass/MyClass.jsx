@@ -10,7 +10,7 @@ const MyClass = () => {
   const showBtn = false;
 
   useEffect(() => {
-    fetch("http://localhost:5000/classes")
+    fetch("https://artsoul.onrender.com/classes")
       .then((res) => res.json())
       .then((data) => setMyClasses(data));
   }, []);
@@ -21,7 +21,7 @@ const MyClass = () => {
   const handleDeleteUser = (_id) => {
     const proceed = window.confirm("Are you sure You want to delete ? ");
     if (proceed) {
-      const url = `http://localhost:5000/class/delete/${_id}`;
+      const url = `https://artsoul.onrender.com/class/delete/${_id}`;
       fetch(url, {
         method: "DELETE",
       })

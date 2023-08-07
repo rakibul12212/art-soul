@@ -72,7 +72,7 @@ const DashboardAdmin = () => {
 
   // find users from database
   React.useEffect(()=>{
-    fetch('http://localhost:5000/findusers')
+    fetch('https://artsoul.onrender.com/findusers')
     .then(res=>res.json())
     .then(data=>setUsers(data))
   }, []);
@@ -90,7 +90,7 @@ const DashboardAdmin = () => {
   const handleOnSubmit = () => {
     const user = { email };
     // send to the server
-    fetch("http://localhost:5000/users/admin", {
+    fetch("https://artsoul.onrender.com/users/admin", {
       method: "PUT",
       headers: {
         "content-type": "application/json",
@@ -110,7 +110,7 @@ const DashboardAdmin = () => {
   const handleInstructor = () => {
     const user = { email };
     // send to the server
-    fetch("http://localhost:5000/users/instructor", {
+    fetch("https://artsoul.onrender.com/users/instructor", {
       method: "PUT",
       headers: {
         "content-type": "application/json",

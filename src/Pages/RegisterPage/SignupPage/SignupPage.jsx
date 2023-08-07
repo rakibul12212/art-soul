@@ -108,7 +108,7 @@ const SignupPage = () => {
       };
       const saveUser = (email, displayName, photoURL, method) => {
         const user = { email, displayName, photoURL };
-        fetch("http://localhost:5000/users", {
+        fetch("https://artsoul.onrender.com/users", {
           method: method,
           headers: {
             "content-type": "application/json",

@@ -8,7 +8,7 @@ const ManageAllProducts = () => {
   const [allProducts, setAllProducts] = useState([]);
   const dltBtn = true;
   useEffect(() => {
-    fetch("http://localhost:5000/products")
+    fetch("https://artsoul.onrender.com/products")
       .then((res) => res.json())
       .then((data) => setAllProducts(data));
   }, []);
@@ -18,7 +18,7 @@ const ManageAllProducts = () => {
       "Are you sure You want to delete This Product ? "
     );
     if (proceed) {
-      const url = `http://localhost:5000/product/delete/${_id}`;
+      const url = `https://artsoul.onrender.com/product/delete/${_id}`;
       fetch(url, {
         method: "DELETE",
       })

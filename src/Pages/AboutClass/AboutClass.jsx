@@ -31,7 +31,7 @@ const aboutClass = () => {
     const onSubmit = (data) => {
       // const savedCart = ;
       data.cart = productToShow;
-      fetch("http://localhost:5000/orders", {
+      fetch("https://artsoul.onrender.com/orders", {
         method: "POST",
         headers: {
           "content-type": "application/json",

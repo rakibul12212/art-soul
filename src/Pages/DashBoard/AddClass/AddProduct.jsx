@@ -16,13 +16,13 @@ const AddClass = () => {
   const {user}=useAuth()
    // find users from database
   //  React.useEffect(()=>{
-  //   fetch('http://localhost:5000/findusers')
+  //   fetch('https://artsoul.onrender.com/findusers')
   //   .then(res=>res.json())
   //   .then(data=>setUsers(data))
   // }, []);
   // Taken From React Hook Form On Submit
   const onSubmit = (data) => {
-    axios.post("http://localhost:5000/classes", data).then((res) => {
+    axios.post("https://artsoul.onrender.com/classes", data).then((res) => {
       if (res.data.insertedId) {
         alert("Class Added successfully");
         reset();

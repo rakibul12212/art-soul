@@ -75,7 +75,7 @@ const useFirebase = () => {
       });
     };
     useEffect(() => {
-      fetch(`http://localhost:5000/users/${user.email}`)
+      fetch(`https://artsoul.onrender.com/users/${user.email}`)
         .then((res) => res.json())
         .then((data) => {data.admin===true?setAdmin(data.admin):setInstructor(data.instructor)});
     }, [user.email]);

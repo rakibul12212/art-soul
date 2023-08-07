@@ -72,7 +72,7 @@
     
 //     {
 //       path: "/classDetails/:id",
-//       loader:async({params})=>await fetch(`http://localhost:5000/classes/${params.id}`),
+//       loader:async({params})=>await fetch(`https://artsoul.onrender.com/classes/${params.id}`),
 //       element:<ViewClasses></ViewClasses>
 //     },
 //     {

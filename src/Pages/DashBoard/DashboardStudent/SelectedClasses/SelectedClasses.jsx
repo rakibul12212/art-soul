@@ -13,7 +13,7 @@ const SelectedClasses = () => {
 
   useEffect(() => {
 
-    fetch("http://localhost:5000/orders/manageAllOrders")
+    fetch("https://artsoul.onrender.com/orders/manageAllOrders")
       .then((res) => res.json())
       .then((data) => setMyClasses(data));
   }, []);
@@ -23,7 +23,7 @@ const SelectedClasses = () => {
   const handleDeleteUser = (_id) => {
     const proceed = window.confirm("Are you sure You want to delete ? ");
     if (proceed) {
-      const url = `http://localhost:5000/order/delete/${_id}`;
+      const url = `https://artsoul.onrender.com/order/delete/${_id}`;
       fetch(url, {
         method: "DELETE",
       })

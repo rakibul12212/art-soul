@@ -4,7 +4,7 @@ const useClasses = () => {
     // products to be rendered on the UI
   const [classes, setClasses] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/classes")
+    fetch("https://artsoul.onrender.com/classes")
       .then((res) => res.json())
       .then((data) => setClasses(data));
   }, []);

@@ -14,7 +14,7 @@ const ShowClass = () => {
   useEffect(() => {
     const fetchItems = async () => {
       try {
-        const response = await fetch("http://localhost:5000/classes");
+        const response = await fetch("https://artsoul.onrender.com/classes");
         const data = await response.json();
         setItems(data);
       } catch (error) {
