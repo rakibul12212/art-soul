@@ -1,14 +1,12 @@
 
-  const firebaseConfig = {
-    apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-    authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
-    projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
-    storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
-    messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
-    appId: import.meta.env.VITE_FIREBASE_APP_ID,
-    measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
-    
-  };
+const firebaseConfig = {
+  apiKey: "AIzaSyDqD4Hm3tNFaTuGzIQSb2LUOYFz_qn6xG4",
+  authDomain: "artsoul-9ffa8.firebaseapp.com",
+  projectId: "artsoul-9ffa8",
+  storageBucket: "artsoul-9ffa8.appspot.com",
+  messagingSenderId: "604908561352",
+  appId: "1:604908561352:web:23f0e9c820ed2d8b9296fd"
+};
   
   
   export default firebaseConfig;
