@@ -9,8 +9,8 @@ const Testimonial = () => {
     return (
         <>
 
-    <div className="testimonial-container h-screen">
-        <div className='pt-48 text-center text-white '>
+    <div className="testimonial-container py-10">
+        <div className=' text-center text-white '>
         <p className='text-orange-300 text-xl'>testimonial</p>
         <p className='text-4xl text-bold text-orange-500'>What Our Students Say</p>
 
@@ -26,18 +26,19 @@ const Testimonial = () => {
        className="mySwiper ">
         
         <SwiperSlide>
-        <figure className="flex flex-col items-center justify-center p-4 md:p-8 text-center text-white">
-          <blockquote className="max-w-md mx-auto mb-4 text-white md:mb-4 dark:text-gray-400">
-            <p >Art has given me a creative outlet to express myself, allowing me to explore my emotions and thoughts in a visually captivating way. It's truly liberating.</p>
-          </blockquote>
-          <figcaption className="flex items-center justify-center space-x-3">
-            <img className="rounded-full w-9 h-9" src="https://images.unsplash.com/photo-1517256673644-36ad11246d21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80" alt="profile picture" />
-            <div className="space-y-0.5 font-medium dark:text-white text-center">
-              <div>Bonnie Green</div>
-            </div>
-          </figcaption>
-        </figure>
-        </SwiperSlide>
+  <figure className="flex flex-col items-center justify-center p-4 md:p-8 text-center text-white">
+    <blockquote className="max-w-md mx-auto mb-4 text-white md:mb-4 dark:text-gray-400">
+      <p className="text-sm md:text-lg lg:text-xl">Art has given me a creative outlet to express myself, allowing me to explore my emotions and thoughts in a visually captivating way. It's truly liberating.</p>
+    </blockquote>
+    <figcaption className="flex items-center justify-center space-x-3">
+      <img className="rounded-full w-9 h-9 md:w-12 md:h-12 lg:w-16 lg:h-16" src="https://images.unsplash.com/photo-1517256673644-36ad11246d21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80" alt="profile picture" />
+      <div className="space-y-0.5 font-medium dark:text-white text-center">
+        <div className="text-sm md:text-lg lg:text-xl">Bonnie Green</div>
+      </div>
+    </figcaption>
+  </figure>
+</SwiperSlide>
+
         <SwiperSlide>
         <figure className="flex flex-col items-center justify-center p-4 md:p-8 text-center text-white">
           <blockquote className="max-w-md mx-auto mb-4 text-white md:mb-4 dark:text-gray-400">
