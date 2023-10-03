@@ -1,9 +1,11 @@
 .about-container {
-    background-image: url(img2.jpg);
-    background-size: cover;
-    background-position: center;
-    min-height: 100vh;
-   
-    
+  background-image: url("https://i.ibb.co/44RNpCH/img2.jpg");
+  background-repeat: no-repeat;
+  background-size:cover; 
   }
+  @media (max-width: 640px) {
+    .about-container {
+        background-size: cover; /* Use contain for smaller screens */
+    }
+}
   

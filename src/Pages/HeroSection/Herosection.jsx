@@ -6,7 +6,8 @@ const Herosection = () => {
     <div
       className="flex items-center justify-center w-full h-screen"
       style={{
-        background: 'url("/src/Pages/HeroSection/herosectionimg.png")',
+        background: 'url("https://i.ibb.co/8bpj9hX/herosectionimg.jpg")',
+        backgroundRepeat:' none',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}

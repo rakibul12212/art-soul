@@ -1,0 +1,4 @@
+.image-container {
+    max-width: 50%; /* Ensure the image doesn't exceed its container's width */
+    /* Automatically adjust the height to maintain aspect ratio */
+  }

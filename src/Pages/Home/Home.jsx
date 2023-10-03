@@ -21,12 +21,11 @@ const Home = () => {
             <Banner></Banner>
             <Feature></Feature>
             <Herosection></Herosection>
-            <Team></Team>
             <Classes></Classes>
+            <Team></Team> 
             <Event></Event>
             <Testimonial></Testimonial>
             <Gallery></Gallery>
-            
             <Footer></Footer>
         </div>
     );
